@@ -1,4 +1,4 @@
-# CustomTabLayout
+# CustomTabLayout [![](https://jitpack.io/v/ZKXSparke/CustomTabLayout.svg)](https://jitpack.io/#ZKXSparke/CustomTabLayout)
 自定义TabLayout V1.0.0
 
 ## Step 1.Add it in your root build.gradle at the end of repositories:
